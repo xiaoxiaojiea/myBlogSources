@@ -10,7 +10,7 @@
 
 
 
-**CPU环境**：这个很简单，只要你有一个电脑就可以了，然后使用conda创建一个新环境，环境版本配置建议如下：python3.8，pytorch1.9.1，其他的就参考我一开始的配置环境吧：https://mp.weixin.qq.com/s/mu-ePQBKiWupaZxIXwVCgQ
+**CPU环境**：这个很简单，只要你有一个电脑就可以了，然后使用conda创建一个新环境，环境版本配置建议如下：python3.8，pytorch1.9.1，其他的就参考我一开始的配置环境吧：[深度学习Pytorch环境搭建](https://github.com/xiaoxiaojiea/myBlogSources/tree/main/ch001_deeplearning/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/001-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA)
 
 
 
@@ -85,7 +85,7 @@
 
 
 
-大致的工作流程就是这样的，其中涉及到的卷积层，全连接等等细节知识请大家看之前写的文章：https://mp.weixin.qq.com/s/E5XQ-W_wUfESiSkuUVpc1A
+大致的工作流程就是这样的，其中涉及到的卷积层，全连接等等细节知识请大家看之前写的文章：[深度学习编码基础](https://github.com/xiaoxiaojiea/myBlogSources/tree/main/ch001_deeplearning/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/003-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BC%96%E7%A0%81%E5%9F%BA%E7%A1%80)
 
 
 
@@ -99,7 +99,7 @@
 
 
 
-**完整代码放在github仓库**：`https://github.com/xiaoxiaojiea/myBlogShare/tree/main/DeepLearning/DL_base/mnist_code`
+**完整代码放在github仓库**：[深度学习项目-手写体数字识别代码(mnist)](https://github.com/xiaoxiaojiea/myBlogShare/tree/main/DeepLearning/DL_base/mnist_code)
 
 
 
