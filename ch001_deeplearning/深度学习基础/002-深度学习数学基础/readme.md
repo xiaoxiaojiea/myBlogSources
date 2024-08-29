@@ -325,9 +325,10 @@
 
 
 
-**公式：**<img src="http://latex.codecogs.com/svg.latex?J(y,f(x)) = J(w,b) = -\frac{1}{m}\sum^{m}_{i=1}(\ f(x)*log(y) + (1-f(x))*log(1-y)\ )" />
-
-
+**公式：**
+$$
+J(y,f(x)) = J(w,b) = -\frac{1}{m}\sum^{m}_{i=1}(\ f(x)*log(y) + (1-f(x))*log(1-y)\ )
+$$
 
 
 **解释：**
@@ -398,16 +399,22 @@
 
 - **具体例子**
 
-> 求函数 <img src="http://latex.codecogs.com/svg.latex?f(x) = 2*x^2-12*x+20" /> 的最小值点，并且求出最小值。
+> 求函数 $$f(x) = 2*x^2-12*x+20$$ 的最小值点，并且求出最小值。
 
 
 
-**对函数求导**<img src="http://latex.codecogs.com/svg.latex?f(x)' = 4*x - 12" />
-
-
-
-**令导函数 `f(x)'=0`，求出此时的x**: `4*x-12=0`，解得`x=3`。
-
+**对函数求导**
+$$
+f(x)' = 4*x - 12
+$$
+**令导函数为0，求出此时的x**
+$$
+令 \  \ f(x)'=0 \\
+即 \ 4*x-12 = 0  \\
+得到\ x=3令 \  \ f(x)'=0 \\
+即 \ 4*x-12 = 0  \\
+得到\ x=3
+$$
 此时，`x = 3` 即为函数 `f(x)` 的最小值点，带入原方程 `f(3)= 2*9-12*3+20 = 2`.
 
 > 这个解题过程，想必大家都很熟悉吧。
@@ -426,7 +433,7 @@
 
 
 
-- 方程  <img src="http://latex.codecogs.com/svg.latex?f(x) = 2*x^2-12*x+20" />  图像如下：
+- 方程  $$f(x) = 2*x^2-12*x+20$$  图像如下：
 
 ![image-20210408200432636](images/6r1CtSWshHFw8nX.png)
 
@@ -438,7 +445,7 @@
 
 
 
-- 比如：<img src="http://latex.codecogs.com/svg.latex?f(x,y)=2*x^2+2*y+4*x*y" />
+- 比如：$$ f(x,y)=2*x^2+2*y+4*x*y $$
 
 > 此时需要做的事情就是针对每一个变量求偏导，**求出该方程针对每个变量的梯度方向** （梯度方向就是数据变小的方向）。
 
@@ -511,13 +518,13 @@
 - `W` ： 方程的权重。 （可以简单理解为方程变量前面的系数）
 - `b` ：方程的偏差。 （可以简单理解为方程中的常数）
 
-> 比如：<img src="http://latex.codecogs.com/svg.latex?f(x,y) = 2*x^2+y^2+3" /> 中，`2 , 1`就是权重，`3`就是偏差。
+> 比如：$$f(x,y) = 2*x^2+y^2+3$$ 中，`2 , 1`就是权重，`3`就是偏差。
 
 
 
 **公式：**
 
-- 更新权重`W`：<img src="http://latex.codecogs.com/svg.latex?W_{new} = W_{old} - \alpha *\frac{\partial L}{\partial w}" />
+- 更新权重`W`：$$W_{new} = W_{old} - \alpha *\frac{\partial L}{\partial w}$$.
 
 > 原始点的权重是 $$W_{old}$$，原始点此时针对`W`的梯度方向是$$\frac{\partial L}{\partial w}$$.
 >
@@ -531,7 +538,7 @@
 
 
 
-- 更新偏差：<img src="http://latex.codecogs.com/svg.latex?b_{new} = b_{old} - \alpha *\frac{\partial L}{\partial b}" />
+- 更新偏差：$$b_{new} = b_{old} - \alpha *\frac{\partial L}{\partial b}$$.
 
 > 原理同 `W` .
 
