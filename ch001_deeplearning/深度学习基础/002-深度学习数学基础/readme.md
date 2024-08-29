@@ -1,3 +1,7 @@
+> 文章出处：小小猿笔记（公众号，B站，知乎，CSDN 同名）
+>
+> 仓库地址：https://github.com/xiaoxiaojiea/myBlogSources.git
+
 
 
 #  002-深度学习数学基础(神经网络、梯度下降、损失函数)

@@ -1,3 +1,9 @@
+>文章出处：小小猿笔记（公众号，B站，知乎，CSDN 同名）
+>
+>仓库地址：https://github.com/xiaoxiaojiea/myBlogSources.git
+
+
+
 # 003-深度学习编码基础
 
 **003-深度学习编码基础(PyTorch，卷积，池化，全连接，激活函数)**
