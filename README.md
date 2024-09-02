@@ -15,7 +15,11 @@
 
 ## 编程语言
 
+- C语言
+  - [C语言知识点总结](https://github.com/xiaoxiaojiea/myBlogSources/tree/main/ch000_programming_language/c%E8%AF%AD%E8%A8%80)
 
+- Python语言
+  - 
 
 
 
