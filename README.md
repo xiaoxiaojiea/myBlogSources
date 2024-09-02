@@ -9,17 +9,13 @@
 
 
 
-
-
-
-
 ## 编程语言
 
 - C语言
   - [C语言知识点总结](https://github.com/xiaoxiaojiea/myBlogSources/tree/main/ch000_programming_language/c%E8%AF%AD%E8%A8%80)
 
 - Python语言
-  - 
+  - [Python语言知识点总结(附带python爬虫基础)](https://github.com/xiaoxiaojiea/myBlogSources/tree/main/ch000_programming_language/python%E8%AF%AD%E8%A8%80)
 
 
 
@@ -37,13 +33,21 @@
 
 # 加个鸡腿
 
-
+先立个flag，等我觉得文章更新到可以厚着脸皮要打赏的时候再摆出来。
 
 
 
 # 联系方式
 
+- **公众号**
 
+![宣传](images/宣传.png)
+
+
+
+- **微信**（加好友请备注 “博文”，否则可能不通过 ）
+
+<img src="images/6642feb4816c4c344d32b0daf933dbf.jpg" alt="6642feb4816c4c344d32b0daf933dbf" style="zoom:33%;" />
 
 
 
