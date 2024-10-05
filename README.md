@@ -25,7 +25,7 @@
   - [001-深度学习环境搭建](https://github.com/xiaoxiaojiea/myBlogSources/tree/main/ch001_deeplearning/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/001-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA)
   - [002-深度学习数学基础](https://github.com/xiaoxiaojiea/myBlogSources/tree/main/ch001_deeplearning/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/002-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80)
   - [003-深度学习编码基础](https://github.com/xiaoxiaojiea/myBlogSources/tree/main/ch001_deeplearning/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/003-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BC%96%E7%A0%81%E5%9F%BA%E7%A1%80)
-  - [004-深度学习实战—手写体识别(mnist)](https://github.com/xiaoxiaojiea/myBlogSources/tree/main/ch001_deeplearning/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/004_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%E2%80%94%E6%89%8B%E5%86%99%E4%BD%93%E8%AF%86%E5%88%AB(mnist))
+  - [004-深度学习实战—手写体识别(mnist)](https://github.com/xiaoxiaojiea/myBlogSources/tree/main/ch001_deeplearning/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/004-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%E2%80%94%E6%89%8B%E5%86%99%E4%BD%93%E8%AF%86%E5%88%AB(mnist))
   
   - [005-深度学习实战—猫狗分类](https://github.com/xiaoxiaojiea/myBlogSources/tree/main/ch001_deeplearning/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/005-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%E2%80%94%E7%8C%AB%E7%8B%97%E5%88%86%E7%B1%BB)
 
