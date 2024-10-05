@@ -1,5 +1,9 @@
 **Tips**：文中涉及到的链接已单独放置到文末，且可直接点击。
 
+> 文章出处：小小猿笔记（公众号，B站，知乎，CSDN 同名）
+>
+> 仓库地址：https://github.com/xiaoxiaojiea/myBlogSources.git
+
 ![page_0000](images/page_0000.jpg)
 
 ![page_0001](images/page_0001.jpg)
